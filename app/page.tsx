@@ -27,7 +27,7 @@ export default function EmailChecker() {
   return (
     <div className="max-w-md mx-auto mt-20 p-6 shadow-lg rounded-xl">
       <h1 className="text-xl font-bold mb-4">ShopifyTasker's Email Validator</h1>
-            <h1 className="text-sm font-bold mb-4">This is internal tool for email validation  </h1>
+            <p className="text-sm font-thin mb-4">This is internal tool for email validation  </p>
 
 
       <input
